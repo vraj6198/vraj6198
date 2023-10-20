@@ -2,11 +2,11 @@
 
 <br />
 
-- 🔭 I’m currently working on IOS and Web Development.
+- 🔭 I’m currently working on Software Developer.
 - 🌱 I’m currently learning Everything.
-- 👯 I’m looking to collaborate on IOS Dev.
+- 👯 I’m looking to collaborate with Software Developer and DevOps.
 - 🤔 I’m looking for help with Auth0 and React.
-- 💬 Ask me about IOS and Web Development. 
+- 💬 Ask me about DSA and Web Development. 
 - 📫 How to reach me: patelvraj67@gmail.com
 
 **Languages and Tools:**  
